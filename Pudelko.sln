@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wsei-cslab-box-class", "wsei-cslab-box-class.csproj", "{EF80C4FE-395B-4D2C-8F0C-5317D423D2D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF80C4FE-395B-4D2C-8F0C-5317D423D2D4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EF80C4FE-395B-4D2C-8F0C-5317D423D2D4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EF80C4FE-395B-4D2C-8F0C-5317D423D2D4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EF80C4FE-395B-4D2C-8F0C-5317D423D2D4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C2BAAC2-8EEE-4938-8B51-AE0B1F3EBA9C}
+	EndGlobalSection
+EndGlobal
